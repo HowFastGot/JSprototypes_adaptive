@@ -1,0 +1,14 @@
+.village {
+  height: 40px;
+  background: green;
+}
+
+.city {
+  height: 40px;
+  background: grey;
+}
+
+.nuteral {
+  height: 40px;
+  background: red;
+}
